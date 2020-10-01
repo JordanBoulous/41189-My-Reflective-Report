@@ -151,3 +151,20 @@ Next time, in order to solve problems in a more efficient manner, I could have a
 ### What theory proved to be useful and why? What have I learnt from this?
 I believe that the Colonel Blotto game was the most useful theory provided in this week’s content due to the fact that it can be applied to practically anyone and encourage them to become a more successful individual. This is due to the fact that the theory allows us to recognise that you do not need to be the most skilled in order to succeed at something, and that the ‘underdogs’ can succeed by strategically thinking in your approach to certain situations.
 
+
+
+## Week 9
+### What have I learnt this week?
+Upon reflecting on this week, it was a vital stage in regards to the progression of the group assignment due at the end of the semester. This is due to the fact that this week saw the group learning crucial information surrounding the different scenarios that must be analysed for the project. Upon learning about the necessity of these scenarios, we were able to understand that the fundamental purpose of the models is to provide us with different possible outcomes when various scenarios are considered.
+### What do I 'now know' that I did not before?
+A section of the assignment which I did not truly understand until this week was the implementation of the models using Python code. Previously, I assumed that the code could simply be copied directly from the internet and be instantly applied to our group’s selected problem. However, I now realise that this code must be adjusted in order to relate to our group’s problem which is the spread of Covid-19 and society’s reaction to different preventative measures. This can be accomplished by changing some of the values in the code to meet the requirements of our intended use of the models.
+### What insights have I gained?
+The primary insights gained during week 9 of the subject was the fact that in order to truly succeed in the assignment, I must grasp a much more comprehensive understanding of Python and how it can be applied to the different models in order to successfully measure the societal behaviours we are hoping to measure.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+The strengths that i perceived this week were in relation to my ability to research and form a basic understanding of how Mesa works and how I can apply its models’ code into the assignment and then edit it in order to adapt it to our group’s problem. However, the weaknesses came in the form of my lack of experience with Python. This was made most evident after I implemented Mesa’s code for the Schelling Segregation Model but was unable to run it in the Jupyter Notebook due to an error with the importing of the model code.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+During our group’s meeting to discuss the task during this week’s workshop, we struggled significantly with the questions regarding the scenario analysis. This is due to the fact that the wording of the questions led us to believe that we would need to apply financial methods of analysis to the project, which we were unsure on how to approach. However, after asking Juan for help, we realised that the scenario analysis was basically how the models can be adapted to test various outcomes from multiple possible predicaments. After this problem was resolved, we were able to begin discussing how to approach this section of the assignment.
+### What would I do better next time and with what anticipated results?
+If in the future our group encounters any more major or minor issues with the assignment, the two best options would be to search the internet for a solution, or to ask Juan for an explanation on how to approach a certain issue. By doing this, we do not waste time sitting in pure confusion and instead we can aim to resolve the problem as quickly as possible so that we can continue working on the assignment.
+
+
