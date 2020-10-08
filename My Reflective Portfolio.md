@@ -168,3 +168,17 @@ During our group’s meeting to discuss the task during this week’s workshop, 
 If in the future our group encounters any more major or minor issues with the assignment, the two best options would be to search the internet for a solution, or to ask Juan for an explanation on how to approach a certain issue. By doing this, we do not waste time sitting in pure confusion and instead we can aim to resolve the problem as quickly as possible so that we can continue working on the assignment.
 
 
+
+## Week 10
+### What have I learnt this week?
+This week, our group received the feedback provided to us from Group 5. This feedback allowed our group to reflect on the quality of our report. I was able to learn about the structure of the report, and how simple tasks such as including a reference list at the bottom and including more in-text references can significantly improve the report.
+### What do I 'now know' that I did not before?
+Some new things that I was able to learn this week about the way in which Github works was the ‘Issues’ tab. This is a very helpful feature which can not only be used to provide feedback to other groups and receive feedback from other groups, it can also be used to ask Juan for help if needed. New issues can be created if there is a technical error, and Juan can observe the issue and see if he has a solution. This is vital since our group members are relatively inexperienced with Github, Jupyter and Python, so it is helpful that there is an experienced user to guide us as a result of the ‘Issues’ feature.
+### What insights have I gained?
+The major insights that I have gained throughout this week was the fact that our tutor Juan is willing to assist us if we have any major or minor problems with the technical aspect of the assignment. As previously mentioned, this is advantageous to us due to our lack of experience with the programs used to complete the assignment.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+The strengths that I was able to deserve during this week of the subject was centralised primarily on leadership qualities. I was able to constantly update the team about any changes made to the report and told them about how to ask for help using the ‘Issues’ tab. However, some of the weaknesses that I recognised was the group’s inability to find a time where we can all do a meeting to discuss the final sections to complete in the report.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Due to the busy and varying schedules of each of the group members, it was difficult to find one time where the entire group could meet together and discuss which of the final 4 questions each of us would complete over the next few weeks. This was made even more difficult since only two out of the four group members were able to make it to the scheduled  weekly workshop .
+### What would I do better next time and with what anticipated results?
+The scheduling issue could be resolved by simply sending messages that the group can respond to on their own time. This would allow us to get more done immediately instead of waiting for the group to schedule a meeting which is difficult, especially towards the end of the semester. Through these messages, we could assign roles without all of us needing to be present at the one time, and we can sit in a meeting at a later date when it is appropriate for all members.
