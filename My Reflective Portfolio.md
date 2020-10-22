@@ -2,8 +2,6 @@
 
 
 # My Reflective Report
-## Jordan Boulous
-
 
 ## Week 1
 ### What have I learnt this week?
